@@ -30,11 +30,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Mhithii)
 
 ---
-
-## 📖 Random Bible Verse
-
-![Random Bible Verse](https://beta.ourmanna.com/api/v1/get/?format=img)
-
 ---
 
 ### ✨ "Code. Coffee. Repeat. ☕💻"
