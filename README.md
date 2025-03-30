@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there, I'm MhithiJ!
 
-<!--
-**MhithiJ/MhithiJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 **Data Engineer** | ☁️ Passionate about **Python & Cloud Technologies**  
+🔎 Exploring the world of **Big Data, AI, and Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhithiJ&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhithiJ&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MhithiJ&theme=tokyonight)
+
+---
+
+## ✨ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mhithijespersen/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Mhithii)
+
+---
+
+## 📖 Random Bible Verse
+
+![Random Bible Verse](https://beta.ourmanna.com/api/v1/get/?format=img)
+
+---
+
+### ✨ "Code. Coffee. Repeat. ☕💻"
