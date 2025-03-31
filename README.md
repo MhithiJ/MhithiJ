@@ -10,7 +10,7 @@
 
 <img align="right" alt="Mhithi" src="images/coding.gif" width="320px" />
 
-Love interacting with the community, sharing knowledge, and learning new things.
+Love to collaborate on various data projects, and learning about new automative systems.
 
 **Talking about personal stuff:**
 
@@ -20,5 +20,5 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 ## 🤝 Let's Connect! 
 
-I'm always excited to connect with fellow developers and tech enthusiasts! 
+I'm always excited to connect with fellow engineers and tech enthusiasts! 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mhithijespersen/) - don't forget to mention you found me through GitHub! 😊
