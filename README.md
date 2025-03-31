@@ -2,7 +2,7 @@
 
 [![Mhithi's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/mhithijespersen/)
 [![Mhithi's X Profile](images/x.png)](https://x.com/Mhithii)
-[![Mhithi's Instagram Profile](images/instagran.png)](https://www.instagram.com/mhithi_/)
+[![Mhithi's Instagram Profile](images/instagram.png)](https://www.instagram.com/mhithi_/)
 
 </br>
 
