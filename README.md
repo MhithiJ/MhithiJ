@@ -1,35 +1,24 @@
-# 👋 Hey there, I'm MhithiJ!
+### Hi there, I'm Mhithi Jespersen👋
 
-## 🚀 About Me
+[![Mhithi's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/mhithijespersen/)
+[![Mhithi's X Profile](images/x.png)](https://x.com/Mhithii)
+[![Mhithi's Instagram Profile](images/instagran.png)](https://www.instagram.com/mhithi_/)
 
-💻 **Data Engineer** | ☁️ Passionate about **Python & Cloud Technologies**  
-🔎 Exploring the world of **Big Data, AI, and Automation**
+</br>
 
----
+## Glad to see you here!
 
-## 📊 GitHub Stats
+<img align="right" alt="Mhithi" src="images/coding.gif" width="320px" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MhithiJ&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MhithiJ&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MhithiJ&theme=tokyonight)
+Love interacting with the community, sharing knowledge, and learning new things.
 
----
+**Talking about personal stuff:**
 
-## ✨ Tech Stack
+- 👨 I’m Mhithi Jespersen (MhithiJ).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: Mhithijesperseno@gmail.com
 
-![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
-![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue)
+## 🤝 Let's Connect! 
 
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mhithijespersen/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/Mhithii)
-
----
----
-
-### ✨ "Code. Coffee. Repeat. ☕💻"
+I'm always excited to connect with fellow developers and tech enthusiasts! 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mhithijespersen/) - don't forget to mention you found me through GitHub! 😊
